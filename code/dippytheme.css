@@ -18,7 +18,7 @@
 	--success-color: #43b581;
 	--danger-color: #982929;
 	--url-color: var(--main-color);
-	--background-image: url('https://i.imgur.com/KCIKGAf.jpg');
+	--background-image: ur('https://i.imgur.com/DSDt8uv.jpg');
 	--background-shading: 100%;
 	--background-position: center;
 	--background-size: cover;
@@ -53,7 +53,7 @@
 	--user-modal-grayscale: 0%;
 	--user-modal-invert: 0%;
 	--user-modal-blur: 3px;
-	--home-icon: url('https://clearvision.gitlab.io/icons/discord.svg');
+	--home-icon: url('https://i.imgur.com/uOPfsBx.gif');
 	--home-position: center;
 	--home-size: 40px;
 	--channel-unread: var(--main-color);
