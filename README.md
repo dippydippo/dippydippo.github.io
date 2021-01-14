@@ -5,3 +5,5 @@
   * [WinnieTheme css](https://dippydippo.github.io/code/forpooh.css)
 
 ## School Stuff
+  * [Task for programming class 14/01/2021](https://dippydippo.github.io/schoolstuff/test.md)
+    * [Download](https://dippydippo.github.io/schoolstuff/downloads/test.cs)
