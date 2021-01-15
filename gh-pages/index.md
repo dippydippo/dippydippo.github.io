@@ -4,7 +4,7 @@
 
 layout: home
 ---
-# Fippy
+# Dippy
 
 ## Personal
   * [DippyTheme css](https://dippydippo.github.io/code/dippytheme.css)
