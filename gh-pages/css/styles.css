@@ -2,7 +2,6 @@
     margin: 10px auto;
     max-width: 600px;
     text-align: center;
-    background-color: #2a2a2a;
   }
   
   .hub {
@@ -16,8 +15,4 @@
     font-size: 12em;
     line-height: 1;
     letter-spacing: -1px;
-  }
-
-  body {
-      background-color: #2a2a2a;
   }
