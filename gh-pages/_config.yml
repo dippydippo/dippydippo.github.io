@@ -24,7 +24,7 @@ github_username:  dippydippo
 
 # Build settings
 markdown: GFM
-theme: minima
+theme: Cayman
 plugins:
   - jekyll-feed
 
