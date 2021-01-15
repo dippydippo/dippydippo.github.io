@@ -23,7 +23,7 @@ twitter_username: Dippy_Roo
 github_username:  dippydippo
 
 # Build settings
-markdown: GFM
+markdown: kramdown
 theme: jekyll-theme-cayman
 plugins:
   - jekyll-feed
