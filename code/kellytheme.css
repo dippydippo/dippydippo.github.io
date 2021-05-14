@@ -1812,7 +1812,7 @@ html.platform-osx .scroller-2TZvBN {
   transition: opacity 0.15s linear 0s;
 }
 
-#status-picker {
+#app-mount #status-picker {
   position: fixed;
   bottom: 8px;
   left: 77px;
@@ -1822,7 +1822,7 @@ html.platform-osx .scroller-2TZvBN {
   border-radius: 5px;
 }
 
-.avatarWrapper-2yR4wp[aria-expanded="true"] .wrapper-3t9DeA:before {
+#app-mount .avatarWrapper-2yR4wp[aria-expanded="true"] .wrapper-3t9DeA:before {
   content: '';
   position: absolute;
   top: -8px;
@@ -1842,7 +1842,7 @@ html.platform-osx .scroller-2TZvBN {
 }
 
 /* Avatar in status picker */
-.avatarWrapper-2yR4wp[aria-expanded="true"] {
+#app-mount .avatarWrapper-2yR4wp[aria-expanded="true"] {
   position: absolute;
   left: 90px;
   bottom: 145px;
@@ -1852,16 +1852,16 @@ html.platform-osx .scroller-2TZvBN {
 }
 
 /* Fixing z-index issue */
-.panels-j1Uci_ { z-index: unset;}
+#app-mount .panels-j1Uci_ { z-index: unset;}
 
-.panels-j1Uci_ > .container-3baos1 > .avatarWrapper-2yR4wp[aria-expanded="true"] > .avatar-SmRMf2 {
+#app-mount .panels-j1Uci_ > .container-3baos1 > .avatarWrapper-2yR4wp[aria-expanded="true"] > .avatar-SmRMf2 {
   width: 60px !important;
   height: 60px !important;
   opacity: 1;
 }
 
 /* Username in status picker */
-.avatarWrapper-2yR4wp[aria-expanded="true"] + .nameTag-3uD-yy {
+#app-mount .avatarWrapper-2yR4wp[aria-expanded="true"] + .nameTag-3uD-yy {
   position: absolute;
   display: flex;
   bottom: 113px;
@@ -1871,12 +1871,12 @@ html.platform-osx .scroller-2TZvBN {
   margin: 0;
   justify-content: center;
 }
-.panels-j1Uci_ > .container-3baos1 .title-eS5yk3 {
+#app-mount .panels-j1Uci_ > .container-3baos1 .title-eS5yk3 {
   font-size: 18px;
 }
 
 /* Status grid */
-#status-picker > .scroller-3BxosC {
+#app-mount #status-picker > .scroller-3BxosC {
   display: grid;
   grid-template-columns: auto auto auto auto;
   grid-template-rows: 40px 40px;
@@ -1884,7 +1884,7 @@ html.platform-osx .scroller-2TZvBN {
 }
 
 /* Status */
-.item-1tOPte:not(#status-picker-custom-status) > .statusItem-33LqPf {
+#app-mount .item-1tOPte:not(#status-picker-custom-status) > .statusItem-33LqPf {
   grid-template-columns: 100% 1fr;
 }
 #status-picker > .scroller-3BxosC > .item-1tOPte,
