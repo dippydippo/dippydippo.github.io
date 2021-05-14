@@ -1656,11 +1656,11 @@ html.platform-osx .scroller-2TZvBN {
 /* User buttons */
 .panels-j1Uci_ > .container-3baos1 > .flex-1xMQg5 {
   position: fixed;
-  bottom: 30px;
-  left: 50px;
+  bottom: 0px;
+  left: 0px;
   width: 72px;
   z-index: 1;
-  padding: 20px 0 10px 0;
+  padding: 20px 0 20px 30px;
   flex-direction: column;
   background: linear-gradient(transparent, var(--background-tertiary) 15%);
 }
