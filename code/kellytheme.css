@@ -1654,7 +1654,7 @@ html.platform-osx .scroller-2TZvBN {
 }
 
 /* User buttons */
-.panels-j1Uci_ > .container-3baos1 > .flex-1xMQg5 {
+#app-mount .panels-j1Uci_ > .container-3baos1 > .flex-1xMQg5 {
   position: fixed;
   bottom: 20px;
   left: 20px;
