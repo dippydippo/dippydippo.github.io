@@ -1,0 +1,49 @@
+/* Black box imports */
+@import url("https://discord-custom-covers.github.io/usrbg/dist/usrbg.css");
+@import url("https://monstrousdev.github.io/themes/addons/user-tags.css");
+
+/* Windows Buttons */
+.winButton-iRh8-Z:not(:last-child) > svg {
+    display: none;
+  }
+  .winButton-iRh8-Z:hover {
+    background-color: var(--background-teritary);
+  }
+  .winButton-iRh8-Z:not(:last-child)::after {
+    content: "";
+    border-radius: 50px;
+    pointer-events: fill;
+  }
+  .winButtonClose-1HsbF- {
+    margin-right: 5px;
+  }
+  .winButtonClose-1HsbF-:after {
+    padding: 6px;
+  }
+  .winButtonClose-1HsbF-::after {
+    background-image: url("https://nyri4.github.io/Comfy/assets/close.png");
+    background-size: 100%;
+  }
+  .winButtonClose-1HsbF-:hover::after {
+    background-image: url("https://nyri4.github.io/Comfy/assets/close_hover.png");
+    background-size: 100%;
+  }
+  
+  .winButtonMinMax-PBQ2gm:nth-child(3):after {
+    background-color: #faa61a;
+    padding: 5px;
+  }
+  .winButtonMinMax-PBQ2gm:nth-child(3):hover::after {
+    background-color: #faa81ae5;
+  }
+  
+  .winButtonMinMax-PBQ2gm:last-child {
+    color: #43b581;
+  }
+  .winButtonMinMax-PBQ2gm:last-child:hover {
+    color: #43b582e3;
+  }
+  .winButtonMinMax-PBQ2gm:last-child rect {
+    height: 3px;
+    rx: 2px;
+  }
