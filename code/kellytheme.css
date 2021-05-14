@@ -1660,7 +1660,7 @@ html.platform-osx .scroller-2TZvBN {
   left: 0px;
   width: 72px;
   z-index: 1;
-  padding: 20px 0 20px 30px !important;
+  padding: 20px 0 10px 0 !important;
   flex-direction: column;
   background: linear-gradient(transparent, var(--background-tertiary) 15%);
 }
