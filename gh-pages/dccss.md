@@ -8,3 +8,4 @@ layout: page
 # Raw css for discord themes
   * [DippyTheme css](https://dippydippo.github.io/code/dippytheme.css)
   * [WinnieTheme css](https://dippydippo.github.io/code/forpooh.css)
+  * [KellyTheme css](https://dippydippo.github.io/code/kellytheme.css)
