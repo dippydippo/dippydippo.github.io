@@ -564,7 +564,7 @@
   background: var(--gradient);
 }
 
-/* #app-mount .panels-j1Uci_ {
+#app-mount .panels-j1Uci_ {
   background: transparent;
 }
 #app-mount .panels-j1Uci_ .lookFilled-1Gx00P.colorBrand-3pXr91 {
@@ -575,7 +575,7 @@
 }
 #app-mount .panels-j1Uci_ .lookFilled-1Gx00P.colorBrand-3pXr91:active {
   background: var(--white-triple);
-} */
+}
 #app-mount .container-1giJp5 {
   border-bottom: none;
 }
