@@ -1553,6 +1553,51 @@ html.platform-osx .scroller-2TZvBN {
   z-index: 10;
 }
 
+/* Friend column */
+.peopleColumn-29fq28 {
+  background: var(--background-primary);
+}
+
+/* Friend call buttons */
+.colorable-1bkp8v.primaryDark-3mSFDl,
+.colorable-1bkp8v.primaryDark-3mSFDl:hover {
+  background: var(--background-secondary-alt);
+}
+.bottomControls-lIJyYL foreignObject {
+  mask: none;
+}
+.bottomControls-lIJyYL .centerButton-3CaNcJ {
+  border-radius: 7px;
+}
+
+/* Regionnal selector friend call */
+.theme-dark .quickSelectPopout-X1hvgV.regionSelectPopout-p9-0_W {
+  background: var(--background-secondary-alt);
+  box-shadow: none;
+}
+.quickSelect-3BxO0K {
+  margin-top: 10px;
+}
+
+/* Friend activities */
+.theme-dark .outer-1AjyKL.active-1xchHY, .theme-dark .outer-1AjyKL.interactive-3B9GmY:hover {
+  background: var(--background-tertiary);
+}
+.theme-dark .inset-3sAvek {
+  background: var(--background-secondary-alt);
+}
+.theme-dark .applicationStreamingPreviewWrapper-8QqvVY {
+  background-color: var(--background-secondary);
+}
+
+/* Friend acitivties popout */
+.theme-dark .popout-38lTFE {
+  background: var(--background-tertiary);
+}
+.theme-dark .separator-XqIyoz {
+  background: var(--background-primary);
+}
+
 @keyframes fadeIn {
   from {
     opacity: 0;
