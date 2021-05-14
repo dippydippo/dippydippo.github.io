@@ -1656,8 +1656,8 @@ html.platform-osx .scroller-2TZvBN {
 /* User buttons */
 .panels-j1Uci_ > .container-3baos1 > .flex-1xMQg5 {
   position: fixed;
-  bottom: 0px;
-  left: 0px;
+  bottom: 15px;
+  left: 30px;
   width: 72px;
   z-index: 1;
   padding: 20px 0 10px 0;
