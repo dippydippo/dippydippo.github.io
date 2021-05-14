@@ -1654,10 +1654,10 @@ html.platform-osx .scroller-2TZvBN {
 }
 
 /* User buttons */
-/* .panels-j1Uci_ > .container-3baos1 > .flex-1xMQg5 {
+.panels-j1Uci_ > .container-3baos1 > .flex-1xMQg5 {
   position: fixed;
-  bottom: 0px;
-  left: 0px;
+  bottom: 20px;
+  left: 20px;
   width: 72px;
   z-index: 1;
   padding: 20px 0 10px 0;
@@ -1667,7 +1667,7 @@ html.platform-osx .scroller-2TZvBN {
 .panels-j1Uci_ > .container-3baos1 > .flex-1xMQg5 > .button-14-BFJ {
   color: var(--user-buttons-color);
   margin: var(--user-buttons-spacing) auto 0 auto;
-} */
+} 
 
 /* GameActivity support */
 #GameActivityToggleBtn .st0 {
