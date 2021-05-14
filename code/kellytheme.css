@@ -1654,20 +1654,20 @@ html.platform-osx .scroller-2TZvBN {
 }
 
 /* User buttons */
-.panels-j1Uci_ > .container-3baos1 > .flex-1xMQg5 {
-  position: fixed !important;
-  bottom: 5px;
+/* .panels-j1Uci_ > .container-3baos1 > .flex-1xMQg5 {
+  position: fixed;
+  bottom: 0px;
   left: 0px;
   width: 72px;
   z-index: 1;
-  padding: 20px 50px 10px 0 !important;
+  padding: 20px 0 10px 0;
   flex-direction: column;
-  background: linear-gradient(transparent, var(--background-tertiary) 15%) !important;
+  background: linear-gradient(transparent, var(--background-tertiary) 15%);
 }
 .panels-j1Uci_ > .container-3baos1 > .flex-1xMQg5 > .button-14-BFJ {
   color: var(--user-buttons-color);
-  margin: var(--user-buttons-spacing) auto 20 auto;
-}
+  margin: var(--user-buttons-spacing) auto 0 auto;
+} */
 
 /* GameActivity support */
 #GameActivityToggleBtn .st0 {
